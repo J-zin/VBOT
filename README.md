@@ -4,5 +4,5 @@
 
 [Deecamp2019 51组 虚拟形象数字人](<https://www.bilibili.com/video/av64342295>)
 
-![<https://github.com/J-zin/VBOT/blob/master/image/deecamp.jpg>]()
+![https://raw.githubusercontent.com/J-zin/VBOT/master/image/deecamp.jpg]()
 

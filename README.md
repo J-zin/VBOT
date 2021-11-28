@@ -1,6 +1,6 @@
 ### VBOT
 
-> deecamp group-51 virual image robot (lip inference mudule)
+> deecamp-2019 group-51 virual image robot (lip inference mudule)
 
 [video](<https://www.bilibili.com/video/av64342295>)
 

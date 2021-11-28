@@ -1,7 +1,12 @@
 ### VBOT
 
-> deecamp 51组 虚拟形象机器人 唇形推理模块
+> deecamp group-51 virual image robot (lip inference mudule)
 
-[Deecamp2019 51组 虚拟形象数字人](<https://www.bilibili.com/video/av64342295>)
+[video](<https://www.bilibili.com/video/av64342295>)
+
+some papers relevant to this topic
+
+- [Towards Automatic Face-to-Face Translation](https://dl.acm.org/doi/10.1145/3343031.3351066)
+- [Wav2Lip: Accurately Lip-syncing Videos In The Wild](https://arxiv.org/abs/2008.10010)
 
 ![](<https://raw.githubusercontent.com/J-zin/VBOT/master/image/deecamp.jpg>)
